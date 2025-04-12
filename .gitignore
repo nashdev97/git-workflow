@@ -1,0 +1,6 @@
+# Ignore Python, Node, logs, system files, etc.
+*.log
+node_modules/
+.env
+__pycache__/
+.DS_Store
